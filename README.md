@@ -1,6 +1,6 @@
 # spring-boot-sms-notification<br/><br/>
-This project based on **Spring Boot Maven** to send free **SMS Notification** using **Twillo**.<br/><br/> 
-Twillo is a third party tool that provides features like **making a voice call** and **sending SMS**. At first you need to **Sing Up** an account in [Twillo](https://www.twilio.com/try-twilio). After completing sing up, Go to the Twillo **Dashboard** and get your credentials such as **Accont SID** and **Authentication Token**.<br/><br/>
+This project is based on **Spring Boot Maven** to send free **SMS Notification** using **Twillo**.<br/><br/> 
+Twillo is a third party tool that provides features like **making a voice call** and **sending SMS**. At first you need to **Sign Up** an account in [Twillo](https://www.twilio.com/try-twilio). After completing sign up, Go to the Twillo **Dashboard** and get your credentials such as **Account SID** and **Authentication Token**.<br/><br/>
 
 ![Twillo Dashboard](https://user-images.githubusercontent.com/27615818/124633736-67f5d180-dea7-11eb-9784-92b2a563078a.jpg) <br/><br/><br/>
 
